@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "The global network of environmental agreements: a preliminary analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2019-abcde-global-network-environmental-agreements
+date: 2019-01-01
+venue: 'Annual Bank Conference on Development Economics 2019, Washington, DC'
+paperurl: ''
+citation: 'Carattini, S., Fankhauser, S., Gao, J., Gennaioli, C., &amp; Panzarasa, P. (2019). &quot;The global network of environmental agreements: a preliminary analysis.&quot; <i>Annual Bank Conference on Development Economics 2019</i>, Washington, DC.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper presents a preliminary analysis of the global network of environmental agreements.
