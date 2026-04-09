@@ -15,17 +15,17 @@ I am currently a Postdoc in the School of Data Science, University of Virginia. 
 
 - Science of Science
 - Computational Social Science
-- Network Science
 - Causal Inference
+- Network Science
 - Natural Language Processing
 
 ## Education
 
 **PhD in Computational Social Science**
-Queen Mary University of London
+,Queen Mary University of London
 
 **Master in Power Engineering**
-University of Chinese Academy of Sciences
+,University of Chinese Academy of Sciences
 
 **BSc in Thermal Energy and Power Engineering**
-Shandong University
+,Shandong University
