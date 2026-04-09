@@ -1,7 +1,7 @@
 ---
 title: "Experiments for Business and Analytics (BUSM106)"
 collection: teaching
-type: "Teaching Assistant"
+type: "Teaching Assistant, Undergraduate course"
 permalink: /teaching/2022-spring-qmul-busm106
 venue: "Queen Mary University of London, School of Business and Management"
 date: 2022-01-01
