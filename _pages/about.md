@@ -9,7 +9,7 @@ redirect_from:
 
 ## Biography
 
-I am currently a Postdoc in the School of Data Science, University of Virginia. She mainly conducts quantitative research in the fields of Science of Science and Computational Social Science, utilizing various quantitative methods, including network analysis, econometrics, and machine learning.
+I am currently a Postdoc in the School of Data Science, University of Virginia. I mainly conducts quantitative research in the fields of Science of Science and Computational Social Science. I am dedicated to understanding how individual careers, institutional mechanisms and national behaviours  interact to produce systemic patterns of recognition, collaboration, and innovation across scientific, cultural and environmental domains. I leverage computational methods -- combining large-scale data analysis, network science, causal inference and NLP with theoretical frameworks from sociology -- to investigate these complex social systems. 
 
 ## Research Interests
 
