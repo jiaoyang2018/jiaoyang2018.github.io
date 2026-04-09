@@ -21,11 +21,11 @@ I am currently a Postdoc in the School of Data Science, University of Virginia. 
 
 ## Education
 
-**PhD in Computational Social Science**, 2022
+**PhD in Computational Social Science**
 - Queen Mary University of London
 
-**Master in Power Engineering**, 2016
+**Master in Power Engineering**
 - University of Chinese Academy of Sciences
 
-**BSc in Thermal Energy and Power Engineering**, 2013
+**BSc in Thermal Energy and Power Engineering**
 - Shandong University
