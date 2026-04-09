@@ -71,7 +71,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : # Usernameßß
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
@@ -84,12 +84,16 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  under_review:
+    title: 'Under Review'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
+  books:
+    title: 'Books'
+  work_in_progress:
+    title: 'Work in Progress'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
