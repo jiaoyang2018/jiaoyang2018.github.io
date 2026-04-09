@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Jianjian Gao"
 title_separator          : "-"
 name                     : &name "Jianjian Gao"
@@ -27,7 +27,7 @@ author:
   name             : "Jianjian Gao"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Research Associate"
-  location         : "Earth"
+  location         : "Virginia, USA"
   employer         : "School of Data Science <br/>University of Virginia"
   uri              : # URL
   email            : "psp2nq@virginia.edu" 
