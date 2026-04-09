@@ -3,7 +3,7 @@ title: "The diversity of philanthropic boards and the diffusion of scientific po
 collection: publications
 category: work_in_progress
 permalink: /publication/2025-diversity-philanthropic-boards
-date: 2025-01-01
+date: 2025-04-01
 venue: 'in prep.'
 paperurl: ''
 citation: 'Misiorek, T. B., Gao, J., &amp; Gates, A. J. (2025). &quot;The diversity of philanthropic boards and the diffusion of scientific policy.&quot;'
