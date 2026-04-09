@@ -39,8 +39,17 @@
   }
 }
 
+.list__item {
+  padding-bottom: 0.5em;
+
+  p {
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+  }
+}
+
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 0.1em;
   font-family: $sans-serif-narrow;
 
   a + a {
@@ -59,6 +68,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
+  margin-bottom: 0;
   font-size: $type-size-6;
 
   & + p {
