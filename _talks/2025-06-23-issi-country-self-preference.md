@@ -6,4 +6,5 @@ permalink: /talks/2025-06-23-issi-country-self-preference
 venue: "ISSI"
 date: 2025-06-23
 location: "Yerevan, Armenia"
+authors: "Jianjian Gao, Alexander J. Gates"
 ---

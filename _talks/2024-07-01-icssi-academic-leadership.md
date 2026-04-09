@@ -6,4 +6,5 @@ permalink: /talks/2024-07-01-icssi-academic-leadership
 venue: "ICSSI"
 date: 2024-07-01
 location: "Washington, DC, USA"
+authors: "Jianjian Gao, Alexander J. Gates"
 ---

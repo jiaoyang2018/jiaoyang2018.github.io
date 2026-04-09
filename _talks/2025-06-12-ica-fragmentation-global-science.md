@@ -6,4 +6,5 @@ permalink: /talks/2025-06-12-ica-fragmentation-global-science
 venue: "75th Annual ICA Conference"
 date: 2025-06-12
 location: "Denver, Colorado, USA"
+authors: "Alexander J. Gates, Jianjian Gao, Indraneel Mane"
 ---

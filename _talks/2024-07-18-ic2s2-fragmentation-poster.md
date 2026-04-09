@@ -6,4 +6,5 @@ permalink: /talks/2024-07-18-ic2s2-fragmentation-poster
 venue: "IC2S2"
 date: 2024-07-18
 location: "Philadelphia, USA"
+authors: "Alexander J. Gates, Indraneel Mane, Jianjian Gao"
 ---
