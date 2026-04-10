@@ -30,6 +30,10 @@
     padding: 0.5em 1em;
     font-family: $sans-serif-narrow;
 
+    @media screen and (min-width: 1024px) {
+      padding-left: 270px;
+    }
+
     @include breakpoint($x-large) {
       max-width: $x-large;
     }
@@ -63,6 +67,10 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+
+    @media screen and (min-width: 1024px) {
+      display: none;
+    }
   }
 }
 
