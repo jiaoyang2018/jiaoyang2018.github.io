@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jianjian Gao"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
