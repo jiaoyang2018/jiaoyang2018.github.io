@@ -67,10 +67,6 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
-
-    @media screen and (min-width: 1024px) {
-      display: none;
-    }
   }
 }
 
