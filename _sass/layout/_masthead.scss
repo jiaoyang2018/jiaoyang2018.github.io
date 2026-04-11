@@ -31,7 +31,7 @@
     font-family: $sans-serif-narrow;
 
     @media screen and (min-width: 1024px) {
-      padding-left: calc(30.5% + 1em);
+      padding-left: calc(22% + 1em);
     }
 
     @include breakpoint($x-large) {
