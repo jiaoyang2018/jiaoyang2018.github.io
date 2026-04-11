@@ -31,7 +31,7 @@
     font-family: $sans-serif-narrow;
 
     @media screen and (min-width: 1024px) {
-      padding-left: 270px;
+      padding-left: 300px;
     }
 
     @include breakpoint($x-large) {
