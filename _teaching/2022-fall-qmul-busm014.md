@@ -8,13 +8,4 @@ date: 2022-09-01
 location: "London, UK"
 ---
 
-Statistical methods for Master's students, covering descriptive statistics, probability, sampling, inference, and multivariate regression analysis. Taught students how to use Stata to perform relevant analysis.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course introduces Master's students to the foundations of quantitative research in business and management. Topics include descriptive statistics, probability theory, sampling methods, statistical inference, and multivariate regression analysis. As a Teaching Assistant, I led weekly lab sessions where students applied these methods using Stata, guiding them through hands-on data analysis and helping them develop the statistical reasoning skills essential for empirical research.
