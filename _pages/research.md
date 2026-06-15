@@ -13,7 +13,7 @@ author_profile: true
   margin-bottom: 0.6em;
 }
 .research-fig {
-  width: 480px;
+  width: 720px;
   margin: 0 auto;
 }
 .research-fig img {
