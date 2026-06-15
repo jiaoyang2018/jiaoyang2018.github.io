@@ -7,34 +7,33 @@ author_profile: true
 
 <style>
 .research-section {
-  display: flex;
-  align-items: flex-start;
-  gap: 2em;
   margin-bottom: 3em;
 }
-.research-section.reverse {
-  flex-direction: row-reverse;
+.research-section h2 {
+  margin-bottom: 0.6em;
 }
-.research-fig {
-  width: 320px;
-  flex-shrink: 0;
+.research-section figure {
+  margin: 0 0 0.8em 0;
 }
-.research-fig img,
-.research-fig object {
+.research-section figure img,
+.research-section figure object {
+  display: block;
+  max-width: 480px;
   width: 100%;
   border-radius: 4px;
-  display: block;
 }
-.research-fig .fig-pair {
+.fig-pair {
   display: flex;
-  gap: 0.5em;
+  gap: 1em;
+  max-width: 480px;
 }
-.research-fig .fig-pair figure {
-  width: 50%;
+.fig-pair figure {
+  flex: 1;
   margin: 0;
 }
-.research-fig .fig-pair figure img {
+.fig-pair figure img {
   width: 100%;
+  max-width: 100%;
 }
 figcaption {
   font-size: 0.8em;
@@ -42,80 +41,52 @@ figcaption {
   margin-top: 0.4em;
   line-height: 1.4;
 }
-.research-text h2 {
-  margin-top: 0;
-}
-@media (max-width: 640px) {
-  .research-section,
-  .research-section.reverse {
-    flex-direction: column;
-  }
-  .research-fig {
-    width: 100%;
-  }
-}
 </style>
 
 <div class="research-section">
-  <div class="research-fig">
-    <figure>
-      <object data="/images/research/scisci1.pdf" type="application/pdf" height="240">
-        <a href="/images/research/scisci1.pdf">View figure</a>
-      </object>
-      <figcaption>Two-way fixed effects panel regression estimates of four national scientific outcomes.</figcaption>
-    </figure>
-  </div>
-  <div class="research-text">
-    <h2>Science of Science</h2>
-    <p>Description coming soon.</p>
-  </div>
-</div>
-
-<div class="research-section reverse">
-  <div class="research-fig">
-    <figure>
-      <object data="/images/research/art1.pdf" type="application/pdf" height="240">
-        <a href="/images/research/art1.pdf">View figure</a>
-      </object>
-      <figcaption>Geographic concentration and nationality diversity in global art exhibitions.</figcaption>
-    </figure>
-  </div>
-  <div class="research-text">
-    <h2>Artworks and Artists</h2>
-    <p>Description coming soon.</p>
-  </div>
+  <h2>Science of Science</h2>
+  <p>Description coming soon.</p>
+  <figure>
+    <object data="/images/research/scisci1.pdf" type="application/pdf" height="240" style="max-width:480px;width:100%;">
+      <a href="/images/research/scisci1.pdf">View figure</a>
+    </object>
+    <figcaption>Two-way fixed effects panel regression estimates of four national scientific outcomes.</figcaption>
+  </figure>
 </div>
 
 <div class="research-section">
-  <div class="research-fig">
-    <figure>
-      <object data="/images/research/causal1.pdf" type="application/pdf" height="240">
-        <a href="/images/research/causal1.pdf">View figure</a>
-      </object>
-      <figcaption>Geographic capital conversion in contemporary art markets.</figcaption>
-    </figure>
-  </div>
-  <div class="research-text">
-    <h2>Causal Inference</h2>
-    <p>Description coming soon.</p>
-  </div>
+  <h2>Artworks and Artists</h2>
+  <p>Description coming soon.</p>
+  <figure>
+    <object data="/images/research/art1.pdf" type="application/pdf" height="240" style="max-width:480px;width:100%;">
+      <a href="/images/research/art1.pdf">View figure</a>
+    </object>
+    <figcaption>Geographic concentration and nationality diversity in global art exhibitions.</figcaption>
+  </figure>
 </div>
 
-<div class="research-section reverse">
-  <div class="research-fig">
-    <div class="fig-pair">
-      <figure>
-        <img src="/images/research/network1.png" alt="Network of nationality over-representation in international art exhibitions">
-        <figcaption>Network of nationality over-representation in international art exhibitions.</figcaption>
-      </figure>
-      <figure>
-        <img src="/images/research/network2.png" alt="University board Interlock Network">
-        <figcaption>University board Interlock Network.</figcaption>
-      </figure>
-    </div>
-  </div>
-  <div class="research-text">
-    <h2>Network Science</h2>
-    <p>Description coming soon.</p>
+<div class="research-section">
+  <h2>Causal Inference</h2>
+  <p>Description coming soon.</p>
+  <figure>
+    <object data="/images/research/causal1.pdf" type="application/pdf" height="240" style="max-width:480px;width:100%;">
+      <a href="/images/research/causal1.pdf">View figure</a>
+    </object>
+    <figcaption>Geographic capital conversion in contemporary art markets.</figcaption>
+  </figure>
+</div>
+
+<div class="research-section">
+  <h2>Network Science</h2>
+  <p>Description coming soon.</p>
+  <div class="fig-pair">
+    <figure>
+      <img src="/images/research/network1.png" alt="Network of nationality over-representation in international art exhibitions">
+      <figcaption>Network of nationality over-representation in international art exhibitions.</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/research/network2.png" alt="University board Interlock Network">
+      <figcaption>University board Interlock Network.</figcaption>
+    </figure>
   </div>
 </div>
