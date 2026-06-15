@@ -113,7 +113,7 @@ figcaption {
         </figure>
         <figure>
           <img src="/images/research/network2.png" alt="University board Interlock Network">
-          <figcaption>University board Interlock Network.</figcaption>
+          <figcaption>University board interlock network.</figcaption>
         </figure>
       </div>
     </div>
