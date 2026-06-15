@@ -16,7 +16,7 @@ author_profile: true
   flex-direction: row-reverse;
 }
 .research-fig {
-  width: 320px;
+  width: 480px;
   flex-shrink: 0;
 }
 .research-fig img {
@@ -64,7 +64,7 @@ figcaption {
   </div>
   <div class="research-text">
     <h2>Science of Science</h2>
-    <p>Description coming soon.</p>
+
   </div>
 </div>
 
@@ -77,7 +77,7 @@ figcaption {
   </div>
   <div class="research-text">
     <h2>Artworks and Artists</h2>
-    <p>Description coming soon.</p>
+
   </div>
 </div>
 
@@ -96,7 +96,7 @@ figcaption {
   </div>
   <div class="research-text">
     <h2>Causal Inference</h2>
-    <p>Description coming soon.</p>
+
   </div>
 </div>
 
@@ -115,6 +115,6 @@ figcaption {
   </div>
   <div class="research-text">
     <h2>Network Science</h2>
-    <p>Description coming soon.</p>
+
   </div>
 </div>
