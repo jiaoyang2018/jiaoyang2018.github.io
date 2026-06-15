@@ -71,7 +71,7 @@ figcaption {
     <div class="fig-pair">
       <figure>
         <img src="/images/research/causal1.png" alt="Geographic capital conversion in contemporary art markets">
-        <figcaption>Geographic capital conversion in contemporary art markets.</figcaption>
+        <figcaption>Geographic capital conversion in contemporary art markets using DiD.</figcaption>
       </figure>
       <figure>
         <img src="/images/research/causal2.png" alt="IV validation: average change in predicted trade">
