@@ -6,11 +6,16 @@ author_profile: true
 ---
 
 <style>
+.research-block {
+  margin-bottom: 3em;
+}
+.research-block h2 {
+  margin-bottom: 0.6em;
+}
 .research-section {
   display: flex;
   align-items: flex-start;
   gap: 2em;
-  margin-bottom: 3em;
 }
 .research-section.reverse {
   flex-direction: row-reverse;
@@ -41,9 +46,6 @@ figcaption {
   margin-top: 0.4em;
   line-height: 1.4;
 }
-.research-text h2 {
-  margin-top: 0;
-}
 @media (max-width: 640px) {
   .research-section,
   .research-section.reverse {
@@ -55,66 +57,66 @@ figcaption {
 }
 </style>
 
-<div class="research-section">
-  <div class="research-fig">
-    <figure>
-      <img src="/images/research/scisci1.png" alt="Two-way fixed effects panel regression estimates of four national scientific outcomes">
-      <figcaption>Two-way fixed effects panel regression estimates of four national scientific outcomes.</figcaption>
-    </figure>
-  </div>
-  <div class="research-text">
-    <h2>Science of Science</h2>
-
-  </div>
-</div>
-
-<div class="research-section reverse">
-  <div class="research-fig">
-    <figure>
-      <img src="/images/research/art1.png" alt="Geographic concentration and nationality diversity in global art exhibitions">
-      <figcaption>Geographic concentration and nationality diversity in global art exhibitions.</figcaption>
-    </figure>
-  </div>
-  <div class="research-text">
-    <h2>Artworks and Artists</h2>
-
-  </div>
-</div>
-
-<div class="research-section">
-  <div class="research-fig">
-    <div class="fig-pair">
+<div class="research-block">
+  <h2>Science of Science</h2>
+  <div class="research-section">
+    <div class="research-fig">
       <figure>
-        <img src="/images/research/causal1.png" alt="Geographic capital conversion in contemporary art markets">
-        <figcaption>Geographic capital conversion in contemporary art markets.</figcaption>
-      </figure>
-      <figure>
-        <img src="/images/research/causal2.png" alt="IV validation: average change in predicted trade">
-        <figcaption>IV validation: average change in predicted trade.</figcaption>
+        <img src="/images/research/scisci1.png" alt="Two-way fixed effects panel regression estimates of four national scientific outcomes">
+        <figcaption>Two-way fixed effects panel regression estimates of four national scientific outcomes.</figcaption>
       </figure>
     </div>
-  </div>
-  <div class="research-text">
-    <h2>Causal Inference</h2>
-
+    <div class="research-text"></div>
   </div>
 </div>
 
-<div class="research-section reverse">
-  <div class="research-fig">
-    <div class="fig-pair">
+<div class="research-block">
+  <h2>Artworks and Artists</h2>
+  <div class="research-section reverse">
+    <div class="research-fig">
       <figure>
-        <img src="/images/research/network1.png" alt="Network of nationality over-representation in international art exhibitions">
-        <figcaption>Network of nationality over-representation in international art exhibitions.</figcaption>
-      </figure>
-      <figure>
-        <img src="/images/research/network2.png" alt="University board Interlock Network">
-        <figcaption>University board Interlock Network.</figcaption>
+        <img src="/images/research/art1.png" alt="Geographic concentration and nationality diversity in global art exhibitions">
+        <figcaption>Geographic concentration and nationality diversity in global art exhibitions.</figcaption>
       </figure>
     </div>
+    <div class="research-text"></div>
   </div>
-  <div class="research-text">
-    <h2>Network Science</h2>
+</div>
 
+<div class="research-block">
+  <h2>Causal Inference</h2>
+  <div class="research-section">
+    <div class="research-fig">
+      <div class="fig-pair">
+        <figure>
+          <img src="/images/research/causal1.png" alt="Geographic capital conversion in contemporary art markets">
+          <figcaption>Geographic capital conversion in contemporary art markets.</figcaption>
+        </figure>
+        <figure>
+          <img src="/images/research/causal2.png" alt="IV validation: average change in predicted trade">
+          <figcaption>IV validation: average change in predicted trade.</figcaption>
+        </figure>
+      </div>
+    </div>
+    <div class="research-text"></div>
+  </div>
+</div>
+
+<div class="research-block">
+  <h2>Network Science</h2>
+  <div class="research-section reverse">
+    <div class="research-fig">
+      <div class="fig-pair">
+        <figure>
+          <img src="/images/research/network1.png" alt="Network of nationality over-representation in international art exhibitions">
+          <figcaption>Network of nationality over-representation in international art exhibitions.</figcaption>
+        </figure>
+        <figure>
+          <img src="/images/research/network2.png" alt="University board Interlock Network">
+          <figcaption>University board Interlock Network.</figcaption>
+        </figure>
+      </div>
+    </div>
+    <div class="research-text"></div>
   </div>
 </div>
