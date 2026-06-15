@@ -36,7 +36,7 @@ author_profile: true
   width: 100%;
 }
 figcaption {
-  font-size: 0.8em;
+  font-size: 1em;
   color: #555;
   margin-top: 0.4em;
   line-height: 1.4;
