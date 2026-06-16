@@ -29,3 +29,8 @@ University of Chinese Academy of Sciences
 
 **BSc in Thermal Energy and Power Engineering**
 Shandong University
+
+## Certificates
+
+- Neural networks and deep learning ([Certificate](https://coursera.org/share/27bcb57c64bc13975dec99a9be379318))
+- Improving deep neural networks: hyperparameter tuning, regularization and optimization ([Certificate](https://coursera.org/share/d790039cd1ce8b299448df4fe8f1fa5a))
