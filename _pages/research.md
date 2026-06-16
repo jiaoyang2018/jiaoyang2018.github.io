@@ -32,12 +32,17 @@ author_profile: true
 .research-fig .fig-pair figure img {
   width: 100%;
 }
-figcaption {
+.research-fig figure {
+  text-align: center;
+}
+.research-fig figcaption {
   font-size: 1em;
   color: #555;
   margin-top: 0.4em;
   line-height: 1.4;
   text-align: center;
+  display: block;
+  width: 100%;
 }
 @media (max-width: 640px) {
   .research-fig {
