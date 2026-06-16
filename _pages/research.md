@@ -37,6 +37,7 @@ figcaption {
   color: #555;
   margin-top: 0.4em;
   line-height: 1.4;
+  text-align: center;
 }
 @media (max-width: 640px) {
   .research-fig {
