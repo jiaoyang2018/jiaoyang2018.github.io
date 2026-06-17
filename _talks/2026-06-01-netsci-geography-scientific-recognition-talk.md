@@ -1,5 +1,5 @@
 ---
-title: "The Geography of Scientific Recognition Across Disciplines"
+title: "The Geography of scientific recognition across disciplines"
 collection: talks
 type: "Talk"
 permalink: /talks/2026-06-01-netsci-geography-scientific-recognition-talk

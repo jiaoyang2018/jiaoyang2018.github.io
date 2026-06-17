@@ -1,5 +1,5 @@
 ---
-title: "Country Self-preference and national research systems: A path to independence or isolation?"
+title: "Country self-preference and national research systems: A path to independence or isolation?"
 collection: talks
 type: "Talk"
 permalink: /talks/2025-06-23-issi-country-self-preference
