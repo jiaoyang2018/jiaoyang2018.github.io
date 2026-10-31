@@ -44,6 +44,15 @@ author_profile: true
   display: block;
   width: 100%;
 }
+.research-fig .fig-interactive {
+  margin-top: 1.5em;
+}
+.research-fig .fig-interactive img {
+  transition: opacity 0.2s;
+}
+.research-fig .fig-interactive a:hover img {
+  opacity: 0.85;
+}
 @media (max-width: 640px) {
   .research-fig {
     width: 100%;
@@ -57,6 +66,12 @@ author_profile: true
     <figure>
       <img src="/images/research/scisci1.png" alt="Two-way fixed effects panel regression estimates of four national scientific outcomes">
       <figcaption>Two-way fixed effects panel regression estimates of four national scientific outcomes.</figcaption>
+    </figure>
+    <figure class="fig-interactive">
+      <a href="/files/umap_science_landscape.html" target="_blank" rel="noopener">
+        <img src="/images/research/umap_science_landscape.png" alt="UMAP map of 199,997 scientific papers coloured by field">
+      </a>
+      <figcaption>The landscape of science: UMAP of SPECTER embeddings for 199,997 SciSciNet papers, coloured by field. <a href="/files/umap_science_landscape.html" target="_blank" rel="noopener">Explore the interactive map &rarr;</a> (opens in a new tab, ~20&nbsp;MB)</figcaption>
     </figure>
   </div>
 </div>
